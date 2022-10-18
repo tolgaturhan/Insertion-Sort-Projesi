@@ -3,4 +3,4 @@
 
 *- Merge Sort Projesi*
 
-*- Binary Search Tree*
+*- Binary Search Tree Projesi*
